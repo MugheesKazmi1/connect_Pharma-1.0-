@@ -6,6 +6,8 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:connect_pharma/services/request_service.dart';
 import 'package:connect_pharma/widgets/FadeInSlide.dart';
+import 'package:connect_pharma/screens/User/DeliveryScreen.dart';
+import 'package:connect_pharma/screens/User/SelfPickupScreen.dart';
 
 class UserScreen extends StatefulWidget {
   // ... existing code ...
